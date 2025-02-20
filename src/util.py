@@ -1,2 +1,2 @@
 def translate(word):
-    return word + 'a'
+    return 'a' + word
